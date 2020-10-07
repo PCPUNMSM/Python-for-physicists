@@ -7,7 +7,7 @@ Descripción: En este curso nos introduciremos en el syntax de Python, conocerem
 
 Costo: GRATIS
 
-Docente: Ricardo Quispe
+Docente: Ricardo Quispe (@RcrdPhysics)
 
 Sesiones:
 - Introducción a Python
@@ -19,7 +19,7 @@ Fecha:
 - Todos los sábados desde el 10 al 31 de octubre. 
 - Hora: 16-19 Hrs (GMT-5)
 
-Vía: ~Google Meets~ [YouTube ](https://www.youtube.com/channel/UCze8vzQLcplutz0nWDNjFCA), con interacción en vivo por chat de live.
+Vía: ~Google Meets~ [YouTube ](https://www.youtube.com/channel/UCze8vzQLcplutz0nWDNjFCA), con interacción en vivo por chat del live.
 
 Requisitos:
 - Ser estudiante de física, ya sea de pregrado, egresado, tesista o posgrado.
